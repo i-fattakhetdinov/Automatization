@@ -1,0 +1,12 @@
+function factorial
+3 6
+4 24
+function sum
+2 4 6
+4 9 13
+function sumMoreThan10
+1-10 10,11 true
+1,2 1-5 false
+function isSummerMonth
+"June" true
+"October" false
